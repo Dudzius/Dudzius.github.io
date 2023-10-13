@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Naujas laboratorinis</title>
+    <title>Su paveiksliuku</title>
     <link>https://Dudzius.github.io/</link>
-    <description>Recent content on Naujas laboratorinis</description>
+    <description>Recent content on Su paveiksliuku</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Oct 2023 16:42:16 +0300</lastBuildDate><atom:link href="https://Dudzius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Oct 2023 12:00:00 +0300</lastBuildDate><atom:link href="https://Dudzius.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pakeistas Testas</title>
-      <link>https://Dudzius.github.io/posts/testas/</link>
-      <pubDate>Fri, 13 Oct 2023 16:42:16 +0300</pubDate>
+      <title>Mano Puslapis</title>
+      <link>https://Dudzius.github.io/posts/mano_puslapis/</link>
+      <pubDate>Fri, 13 Oct 2023 12:00:00 +0300</pubDate>
       
-      <guid>https://Dudzius.github.io/posts/testas/</guid>
-      <description>cia yra naujas puslapis. tikiuosi veiks.</description>
+      <guid>https://Dudzius.github.io/posts/mano_puslapis/</guid>
+      <description>Čia yra mano puslapio turinys.
+Kodas čia: ```python print(&amp;#34;Sveikas, pasauli!&amp;#34;) </description>
     </item>
     
   </channel>
